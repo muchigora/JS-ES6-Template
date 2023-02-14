@@ -1,0 +1,30 @@
+{
+  "name": "es6-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muchigora/JS-ES6-Template.git"
+  },
+  "author": "\"Muchi\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muchigora/JS-ES6-Template/issues"
+  },
+  "homepage": "https://github.com/muchigora/JS-ES6-Template#readme",
+  "dependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/node": "^7.20.7",
+    "@babel/preset-env": "^7.20.2",
+    "eslint-plugin-immutable": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
